@@ -1,4 +1,4 @@
-!DOCTYPE html>
+
 <html>
 <head>
 	<title>Responsive website</title>
@@ -277,7 +277,7 @@ footer ul li p {
 				<h1>With specialty in front-end development, functionality, ux design, back-end, search engine optimization, and scalability</h1>
 
 
-		</section>
+		
 		<div class="wrapper">
 		<section class="index-links">
 			<a href="#">
@@ -308,9 +308,9 @@ footer ul li p {
 					<h3>Contact</h3>
 				</div>	
 			</a>
-		</section>
+		
 	</div>
-	</main>
+	
 	<div class="wrapper">
 	<footer>
 		<ul class="footer-links-main">
